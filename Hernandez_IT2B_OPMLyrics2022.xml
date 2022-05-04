@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<collection>
+    <song>
+        <title>Iba</title>
+        <singer>Zack Tabudlo feat. Moira Dela Torre</singer>
+        <pagelink>../lyrics/iba.php</pagelink>
+    </song>
+    <song>
+        <title>Ang wakas</title>
+        <singer>Arthur Miguel feat. Trisha Macapagal</singer>
+        <pagelink>../lyrics/angwakas.php</pagelink>
+    </song>
+    <song>
+        <title>Hanggang dito nalang</title>
+        <singer>Jojo Santor</singer>
+        <pagelink>../lyrics/hanggangditonalang.php</pagelink>
+    </song>
+    <song>
+        <title>Asan ka na ba</title>
+        <singer>Zack Tabudlo</singer>
+        <pagelink>../lyrics/asankanaba.php</pagelink>
+    </song>
+    <song>
+        <title>Paliwanag</title>
+        <singer>Yeng Constantino feat. Gloc 9</singer>
+        <pagelink>../lyrics/paliwanag.php</pagelink>
+    </song>
+    <song>
+        <title>Pag-ibig nga naman</title>
+        <singer>Kunnns</singer>
+        <pagelink>../lyrics/pagibignganaman.php</pagelink>
+    </song>
+    <song>
+        <title>Rosas</title>
+        <singer>Nica del Rosario feat. Gab Pangilinan</singer>
+        <pagelink>../lyrics/rosas.php</pagelink>
+    </song>
+    <song>
+        <title>Magkikita</title>
+        <singer>The Juans</singer>
+        <pagelink>../lyrics/magkikita.php</pagelink>
+    </song>
+    <song>
+        <title>Misteryo</title>
+        <singer>KD Estrada feat. Alexa Ilacad</singer>
+        <pagelink>../lyrics/misteryo.php</pagelink>
+    </song>
+    <song>
+        <title>Lambing</title>
+        <singer>Mathaios</singer>
+        <pagelink>../lyrics/lambing.php</pagelink>
+    </song>
+    <song>
+        <title>Huling mensahe</title>
+        <singer>Bandang Lapis</singer>
+        <pagelink>../lyrics/hulingmensahe.php</pagelink>
+    </song>
+    <song>
+        <title>Pagsamo</title>
+        <singer>Arthur Nery</singer>
+        <pagelink>../lyrics/pagsamo.php</pagelink>
+    </song>
+    <song>
+        <title>Di na mag-iisa</title>
+        <singer>Nobita</singer>
+        <pagelink>../lyrics/dinamagiisa.php</pagelink>
+    </song>
+    <song>
+        <title>Ikaw lang</title>
+        <singer>Nobita</singer>
+        <pagelink>../lyrics/ikawlang.php</pagelink>
+    </song>
+
+</collection>

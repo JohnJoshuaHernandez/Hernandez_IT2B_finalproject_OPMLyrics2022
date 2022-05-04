@@ -1,0 +1,60 @@
+.home{
+    background: url(../images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.con{
+    background: url(../images/conbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-color: rgb(86, 72, 94); */
+    color: white;
+}
+
+input{
+    color: black;
+}
+
+.u-full-width{
+    background: rgb(46, 29, 58);
+}
+
+.footer{
+    background-color: rgb(28, 62, 92);
+    color: white;
+}
+
+img{
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.margin{
+    margin-left: 50px;
+}
+
+.mar{
+    padding-top: 20px;
+}
+
+.mar>a{
+    text-decoration: none;
+    color: white;
+}
+
+.mar>a:hover{
+    color: rgb(209, 209, 209);
+}
+
+a.result{
+    text-decoration: none;
+    color: rgb(90, 149, 238);
+}
+
+.center>p{
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
